@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align='center'>
  <img src=https://github.com/subah-hussain/subah-hussain/blob/main/hijab.png width ='100' height= '100'/>
 </div>
@@ -58,3 +59,6 @@ Hi, I'm a Molecular Biologist with a passion for bioinformatics and computationa
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subah-hussain)](https://git.io/streak-stats)
+
+### :ninja: CODE WARS !
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=S_hussain)](https://github.com/ignacio-cuadra/github-readme-codewars)
