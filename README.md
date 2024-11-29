@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 ### :woman_scientist: About Me
 Hi, I'm a Molecular Biologist with a passion for bioinformatics and computational biology.
 
-- :telescope: Currently working as: Research Associate, Plant Biotechnology Lab, University of Dhaka
+- :telescope: Currently working as: Research Associate, Mucosal Immunology and Vaccinology
+- :telescope: Former Research Associate, Plant Biotechnology Lab, University of Dhaka
 - :seedling: Focusing on manifesting sucess in 2024
 - :sparkles: My hobbies include reading, learning new languages, and exercise
-- :test_tube: Research interests include CRISPR, metabolomics, transcriptomics
-- :computer: Programming Languages under my belt - R, python, Bash/linux
+- :test_tube: Research interests include CRISPR, metabolomics, transcriptomics, enteric pathogens, Bacteriophage, genomics
+- :computer: Programming Languages under my belt - R, python, Bash/linux, javascript
 - :black_nib: Languages
   -Bengali (Native)
   -English (C1)
